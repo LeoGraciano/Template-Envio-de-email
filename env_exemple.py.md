@@ -1,2 +1,2 @@
-EMAIL=''
-SENHA=''
+LOGIN = ''
+PWD = ''
